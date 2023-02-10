@@ -10,7 +10,6 @@
 <body>
     <x-layouts.navigation/>
 
-    <pre>{{ $sum }}</pre>
     {{ $slot }}
 
 </body>
